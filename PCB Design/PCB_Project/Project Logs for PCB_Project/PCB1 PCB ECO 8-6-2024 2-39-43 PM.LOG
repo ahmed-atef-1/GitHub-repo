@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Q2 Old Footprint=FP-PG-TO220-3-MFG New Footprint=FP-PG-TO220-3-MFG
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Class Member: Failed to add class member : Component D1 LED

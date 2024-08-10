@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\LENOVO\Desktop\MIA Projects\PCB Design\PCB_Project_1\PCB2.PcbDoc
+Date     : 8/7/2024
+Time     : 4:28:33 PM
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.19mm < 0.254mm) Between Pad Q1-1(56.572mm,50.07mm) on Bottom Layer And Track (57.142mm,50.354mm)(57.142mm,51.754mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.19mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.191mm < 0.254mm) Between Pad Q1-2(54.672mm,50.07mm) on Bottom Layer And Track (54.102mm,50.354mm)(54.102mm,51.754mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.191mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.19mm < 0.254mm) Between Pad Q2-1(29.013mm,50.578mm) on Bottom Layer And Track (29.583mm,50.862mm)(29.583mm,52.262mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.19mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.191mm < 0.254mm) Between Pad Q2-2(27.113mm,50.578mm) on Bottom Layer And Track (26.543mm,50.862mm)(26.543mm,52.262mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.191mm]
+Rule Violations :4
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Waived Violations : 0
+Time Elapsed        : 00:00:01

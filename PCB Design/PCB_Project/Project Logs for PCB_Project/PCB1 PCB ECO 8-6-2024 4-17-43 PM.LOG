@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D1 Old Footprint=LED_WP7113ID New Footprint=PCBComponent_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-2
+Added Net: Name=NetD1_2
+Add Class Member: Failed to add class member : Component D1 LED

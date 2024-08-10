@@ -1,0 +1,8 @@
+Added Component: Designator=D1(LED_WP7113ID)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "WP7113ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "supplier"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "supplier part number"; Value = "754-1264-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED
