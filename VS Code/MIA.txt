@@ -1,0 +1,5 @@
+#include <bit/stdc++.h> 
+using namespace std;
+
+std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+>>>>>>> to empty the input buffer and we put it before a new (getline) command
